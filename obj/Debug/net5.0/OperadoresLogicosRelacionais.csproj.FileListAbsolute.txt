@@ -1,0 +1,16 @@
+C:\Users\WIN 10\source\repos\OperadoresLogicosRelacionais\OperadoresLogicosRelacionais\obj\Debug\net5.0\OperadoresLogicosRelacionais.csproj.AssemblyReference.cache
+C:\Users\WIN 10\source\repos\OperadoresLogicosRelacionais\OperadoresLogicosRelacionais\obj\Debug\net5.0\OperadoresLogicosRelacionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\source\repos\OperadoresLogicosRelacionais\OperadoresLogicosRelacionais\obj\Debug\net5.0\OperadoresLogicosRelacionais.AssemblyInfoInputs.cache
+C:\Users\WIN 10\source\repos\OperadoresLogicosRelacionais\OperadoresLogicosRelacionais\obj\Debug\net5.0\OperadoresLogicosRelacionais.AssemblyInfo.cs
+C:\Users\WIN 10\source\repos\OperadoresLogicosRelacionais\OperadoresLogicosRelacionais\obj\Debug\net5.0\OperadoresLogicosRelacionais.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\source\repos\OperadoresLogicosRelacionais\OperadoresLogicosRelacionais\bin\Debug\net5.0\OperadoresLogicosRelacionais.exe
+C:\Users\WIN 10\source\repos\OperadoresLogicosRelacionais\OperadoresLogicosRelacionais\bin\Debug\net5.0\OperadoresLogicosRelacionais.deps.json
+C:\Users\WIN 10\source\repos\OperadoresLogicosRelacionais\OperadoresLogicosRelacionais\bin\Debug\net5.0\OperadoresLogicosRelacionais.runtimeconfig.json
+C:\Users\WIN 10\source\repos\OperadoresLogicosRelacionais\OperadoresLogicosRelacionais\bin\Debug\net5.0\OperadoresLogicosRelacionais.runtimeconfig.dev.json
+C:\Users\WIN 10\source\repos\OperadoresLogicosRelacionais\OperadoresLogicosRelacionais\bin\Debug\net5.0\OperadoresLogicosRelacionais.dll
+C:\Users\WIN 10\source\repos\OperadoresLogicosRelacionais\OperadoresLogicosRelacionais\bin\Debug\net5.0\ref\OperadoresLogicosRelacionais.dll
+C:\Users\WIN 10\source\repos\OperadoresLogicosRelacionais\OperadoresLogicosRelacionais\bin\Debug\net5.0\OperadoresLogicosRelacionais.pdb
+C:\Users\WIN 10\source\repos\OperadoresLogicosRelacionais\OperadoresLogicosRelacionais\obj\Debug\net5.0\OperadoresLogicosRelacionais.dll
+C:\Users\WIN 10\source\repos\OperadoresLogicosRelacionais\OperadoresLogicosRelacionais\obj\Debug\net5.0\ref\OperadoresLogicosRelacionais.dll
+C:\Users\WIN 10\source\repos\OperadoresLogicosRelacionais\OperadoresLogicosRelacionais\obj\Debug\net5.0\OperadoresLogicosRelacionais.pdb
+C:\Users\WIN 10\source\repos\OperadoresLogicosRelacionais\OperadoresLogicosRelacionais\obj\Debug\net5.0\OperadoresLogicosRelacionais.genruntimeconfig.cache
